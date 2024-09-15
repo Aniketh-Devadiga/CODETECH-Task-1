@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 
 
 # loading the data from csv file to a Pandas DataFrame
-customer_data = pd.read_csv('/content/Mall_Customers.csv')
+customer_data = pd.read_csv('/content/Mall_Customers_Dataset.csv')
 
 
 # first 5 rows in the dataframe
