@@ -12,7 +12,7 @@ Mentor: SRAVANI GOUNI
 
 
 
-Overview of the Project 
+**Overview of the Project** 
 
 
 
@@ -20,7 +20,7 @@ Project: Customer Segmentation And Analysis On Mall Customer Dataset
 
 Objective
 
-The goal of this analysis is to group customers by their income and spending habits using KMeans clustering, find the best number of groups, and visualize these customer segments to understand their behaviors better.
+The Objective of this analysis is to group customers by their income and spending habits using K-Means clustering, find the best number of groups and visualize these customer segments to understand their behaviors better.
 
 Key Activities
 
