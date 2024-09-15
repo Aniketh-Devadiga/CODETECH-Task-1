@@ -1,8 +1,13 @@
 Name: ANIKETH B DEVADIGA
+
 Company: CODETECH IT SOLUTIONS
+
 ID: 
+
 Domain: Data Analytics
+
 Duration: August To September 2024
+
 Mentor SRAVANI GOUNI
 
 Overview of the Project 
